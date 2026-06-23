@@ -1,0 +1,29 @@
+$accent: #1f6f64;
+$blue-000: $accent;
+$blue-100: $blue-000;
+$blue-200: $blue-000;
+$blue-300: $blue-000;
+
+$white: #f7f5ef;
+$pure_white: #fff;
+$black: #17211d;
+
+$body-background-color: $white;
+$sidebar-color: $pure_white;
+$feedback-color: darken($sidebar-color, 5%);
+$body-heading-color: $black;
+$body-text-color: $black;
+$border-color: darken($white, 5%);
+
+$link-color: $accent;
+$nav-child-link-color: $accent;
+$base-button-color: $accent;
+$btn-primary-color: $pure_white;
+
+$code-background-color: #0d1117; // github-dark bg color
+$code-linenumber-color: #e6edf3; // github-dark line number color
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $black;
+
+@import "./vendor/accessible-pygments/github-light";

@@ -36,7 +36,7 @@ permalink: pretty
 
 # Theme settings
 theme: just-the-docs
-color_scheme: dark
+color_scheme: cebola-light
 favicon_ico: "/assets/images/favicon.ico"
 mermaid:
   version: "11.15.0"
@@ -51,12 +51,11 @@ aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/novAIcariusQ/Cebola-devdocs"
-gh_edit_branch: "main"
-# gh_edit_source: "docs"
-gh_edit_view_mode: "tree"
+# gh_edit_link: true
+# gh_edit_link_text: "Edit this page on GitHub."
+# gh_edit_repository: "https://github.com/novAIcariusQ/Cebola-devdocs"
+# gh_edit_branch: "main"
+# gh_edit_view_mode: "tree"
 
 # Color style
 callouts:
